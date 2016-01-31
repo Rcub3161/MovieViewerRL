@@ -10,10 +10,10 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-- [ x] User can view a list of movies currently playing in theaters from The Movie Database.
-- [ x] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ x] User sees a loading state while waiting for the movies API.
-- [ x] User can pull to refresh the movie list.
+- [X] User can view a list of movies currently playing in theaters from The Movie Database.
+- [X] Poster images are loaded using the UIImageView category in the AFNetworking library.
+- [X] User sees a loading state while waiting for the movies API.
+- [X] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -36,7 +36,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/KGE8Kg4' title='Movie App Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/KGE8Kg4' title='Movie App Walkthrough' width='' alt='Movie App Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
